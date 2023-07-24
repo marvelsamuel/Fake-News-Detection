@@ -14,9 +14,6 @@ This repository contains the code and resources for a Fake News Classification p
 -  Splits the text into a list of individual words.
 -  Iterates over each word in the list and performs lemmatization.
 
-![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 204055.png)
-
-
 
 ### 2. Feature Extraction
 
@@ -45,9 +42,6 @@ This repository contains the code and resources for a Fake News Classification p
 
    F1 Score: 0.9374167776298269
 
-![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 204854.png)
-
-
 
 2. Passive Aggressive Classifier 
 
@@ -59,7 +53,6 @@ This repository contains the code and resources for a Fake News Classification p
 
    F1 Score: 0.9343936381709742
 
-   ![](C:\Users\Lenovo\Downloads\passive aggressive.png)
 
    
 
@@ -73,8 +66,6 @@ This repository contains the code and resources for a Fake News Classification p
 
    F1 Score: 0.9267643142476697
 
-   ![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 210056.png)
-
    
 
    4. Gradient Boosting Classifier
@@ -87,9 +78,7 @@ This repository contains the code and resources for a Fake News Classification p
 
       F1 Score: 0.9206989247311828
 
-      ![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 210459.png)
-
-      
+     
 
    5. Random Forest Classifier(n_estimators=100, random_state=42)
 
@@ -101,9 +90,7 @@ This repository contains the code and resources for a Fake News Classification p
 
       F1 Score: 0.9023746701846965
 
-      ![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 210320.png)
-
-      
+     
 
    6. Multinomial Naïve Bayes
 
@@ -114,8 +101,6 @@ This repository contains the code and resources for a Fake News Classification p
       Recall: 0.8723684210526316 
 
       F1 Score: 0.876984126984127
-
-      ![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 210857.png)
 
       
 
@@ -129,4 +114,4 @@ This repository contains the code and resources for a Fake News Classification p
 
       F1 Score: 0.7877094972067039
 
-      ![](C:\Users\Lenovo\Downloads\Screenshot 2023-05-22 211201.png)
+
